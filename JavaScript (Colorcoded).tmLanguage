@@ -13,7 +13,7 @@
 	<key>keyEquivalent</key>
 	<string>^~J</string>
 	<key>name</key>
-	<string>JavaScript (Colorcoded)</string>
+	<string>JavaScript (Colorcode)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
